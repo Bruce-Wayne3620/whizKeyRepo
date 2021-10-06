@@ -14,11 +14,12 @@ th {
 	width: 100x;
 } */
 
-/* .table-data {
+ .table-data {
 	position: relative;
 	left: 50px;
 	top: 50px;
-} */
+	vertical-align: bottom;
+} 
 /* th,
 td {
 	padding: 15px;

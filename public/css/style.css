@@ -2,12 +2,12 @@ body {
 	padding: 50px;
 	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-/* table,
+table,
 td,
 th {
 	border: 1px solid #ddd;
 	text-align: left;
-} */
+}
 
 /* table {
 	border-collapse: collapse;

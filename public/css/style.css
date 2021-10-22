@@ -37,4 +37,6 @@ td {
 .classno5{
 	display:none
 	margin-top:5rem;
+	position: relative;
+	text-align: center;
 }

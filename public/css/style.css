@@ -20,10 +20,10 @@ th {
 	top: 50px;
 	vertical-align: bottom;
 } 
-/* th,
+th,
 td {
 	padding: 15px;
-} */
+}
 
 .my-custom-scrollbar {
 	position: relative;
